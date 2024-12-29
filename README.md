@@ -1,0 +1,6 @@
+# 仿万家趣购购物返利网程序源码
+
+仿万家购物购物返利网程序源码<br>返钱网 分红PHP + ECSHOP +MYSQL<br>详细说明：<br>1，分为普通用户，商家用户，代理用户三个等级。<br>2，用户注册在ECSHOP基础上增加二级密码，银行账户等信息。其实这些我看你给我的参考网站上都有。这里就不详细说明了。<br>1，会员返利，我们现在采取固定返现，就是消费多少返多少。比如说普通会员消费了10000元，200元为一个分红权，那么10000/200就有50个分红权。example.com。每天的返现就是50×example.com=14元。这个客户每天可以返14元。<br>以上说明：分红权200，分红权单价0。28。这个是变量以后可以改<br>还有现在是固定返现，以后也可以改成按收入比例返现，比如，今天网站消费额是10000，拿出5%（变量）出来平均分给有分红权的会员，网站共有15个分红权，A会员有5个分红权，B会员有10个分红权，<br>那么A会员当天得10000×example.com/15×5=example.com<br>B会员当天得10000×example.com/15*10=example.com<br>2，商家做单返：千分之二的积分 ，积分可以提现，提现为十个积分为一元钱。（这个千分之二可调动）<br>3，代理商，直接返现千分之十五（这个千分之十五可调动）<br>网站程序设计科学合理。经调试及多家单位使用，性能稳定，安全可靠。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/UCBMK" style="color: red;">https://mega-file.org/UCBMK</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
